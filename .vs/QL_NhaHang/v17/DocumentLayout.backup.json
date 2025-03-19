@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|h:\\hqtcsdl\\dack_chuan\\ql_nhahang\\ql_nhahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\login and regist\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\login and regist\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\login and regist\\regist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\login and regist\\regist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\login and regist\\loadingformregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\login and regist\\loadingformregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\login and regist\\regist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\login and regist\\regist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\xem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\xem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\xem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\xem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\menuchonmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\menuchonmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\menuchonmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\menuchonmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\xemdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\xemdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\duyetmonankhachhangchon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\duyetmonankhachhangchon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\inputphuongthucthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\inputphuongthucthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\login and regist\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\login and regist\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\login and regist\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\login and regist\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\login and regist\\loadingformregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\login and regist\\loadingformregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\importexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\importexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\ql_nhahang\\method\\them_sua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77870AEB-DD92-43CE-910A-CD4E928C25BD}|QL_NhaHang\\QL_NhaHang.csproj|solutionrelative:ql_nhahang\\method\\them_sua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Program.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Program.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Program.cs",
+              "RelativeToolTip": "QL_NhaHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:56:25.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Regist.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Regist.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Login and regist\\Regist.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Regist.cs",
+              "RelativeToolTip": "QL_NhaHang\\Login and regist\\Regist.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwDcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:40:31.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Xem.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\Xem.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\Xem.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\Xem.cs",
+              "RelativeToolTip": "QL_NhaHang\\Method\\Xem.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAtwIEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:33:44.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuChonMonAn.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs",
+              "RelativeToolTip": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:30:05.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuChonMonAn.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\MenuChonMonAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:30:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\User.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Login and regist\\User.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\User.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Login and regist\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:21:01.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoadingFormRegist.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\LoadingFormRegist.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Login and regist\\LoadingFormRegist.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\LoadingFormRegist.cs",
+              "RelativeToolTip": "QL_NhaHang\\Login and regist\\LoadingFormRegist.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:20:47.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DuyetMonAnKhachHangChon.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\DuyetMonAnKhachHangChon.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\DuyetMonAnKhachHangChon.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\DuyetMonAnKhachHangChon.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\DuyetMonAnKhachHangChon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:41:06.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputPhuongThucThanhToan.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\InputPhuongThucThanhToan.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\InputPhuongThucThanhToan.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\InputPhuongThucThanhToan.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\InputPhuongThucThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:41:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\CRUD.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\CRUD.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\CRUD.cs",
+              "RelativeToolTip": "QL_NhaHang\\Method\\CRUD.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAD4v2QBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:40:46.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhanQuyen.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\PhanQuyen.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\PhanQuyen.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\PhanQuyen.cs",
+              "RelativeToolTip": "QL_NhaHang\\Method\\PhanQuyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:34:30.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Admin.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Login and regist\\Admin.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Admin.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Login and regist\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:26:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadingFormRegist.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\LoadingFormRegist.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Login and regist\\LoadingFormRegist.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\LoadingFormRegist.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Login and regist\\LoadingFormRegist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:26:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Regist.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Regist.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Login and regist\\Regist.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Regist.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Login and regist\\Regist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:26:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Login.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Login and regist\\Login.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Login and regist\\Login.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Login and regist\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:26:07.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\DatabaseConnection.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\DatabaseConnection.cs",
+              "RelativeToolTip": "QL_NhaHang\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:13:54.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XemDoanhThu.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\XemDoanhThu.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\XemDoanhThu.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\XemDoanhThu.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Ch\u1EE9c n\u0103ng ch\u00EDnh \u0111\u1EC3 qu\u1EA3n l\u00FD\\XemDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:58:16.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ImportExport.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\ImportExport.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\ImportExport.cs",
+              "ToolTip": "D:\\HK1_2024_2025\\H\u1EC7 QTCSDL\\QL_NhaHang\\QL_NhaHang\\QL_NhaHang\\QL_NhaHang\\Method\\ImportExport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:07:24.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRUD.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\CRUD.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\CRUD.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\CRUD.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Method\\CRUD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:30:00.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhanQuyen.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\PhanQuyen.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\PhanQuyen.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\PhanQuyen.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Method\\PhanQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:30:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Them_Sua.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\Them_Sua.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\Them_Sua.cs",
+              "ToolTip": "D:\\Code Visual\\.NET C# FORM\\1_\u0110\u1ED3 \u00E1n\\QL_NhaHang_New\\QL_NhaHang\\QL_NhaHang\\Method\\Them_Sua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:30:36.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Xem.cs [Design]",
+              "DocumentMoniker": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\Xem.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\Method\\Xem.cs",
+              "ToolTip": "H:\\HQTCSDL\\DACK_Chuan\\QL_NhaHang\\QL_NhaHang\\Method\\Xem.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\Method\\Xem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:37:41.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
